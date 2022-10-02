@@ -1,0 +1,17 @@
+{
+    "numPlanes": 24,
+    "routeList": [
+        {
+            "duration": 1000,
+            "departAirport": "DEL",
+            "arriveAirport": "YVR",
+            "id": 1234
+        },
+        {
+            "duration": 800,
+            "departAirport": "YVZ",
+            "arriveAirport": "DXB",
+            "id": 5678
+        }
+    ]
+}
